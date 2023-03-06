@@ -1,0 +1,4 @@
+version: '3'
+services:
+  httpd-service:
+    image: 'httpd'
